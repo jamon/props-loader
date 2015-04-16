@@ -2,5 +2,5 @@
 	"name": "props-loader",
 	"version": "0.0.0",
 	"author": "Jamon Terrell",
-	"description": "object property loader module for webpack",
+	"description": "object property loader module for webpack"
 }
